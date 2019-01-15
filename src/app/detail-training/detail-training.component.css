@@ -1,0 +1,12 @@
+.card {
+    width: 85%;
+  }
+  
+  .example-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .mat-table {
+    overflow: auto;
+  }
